@@ -4,7 +4,7 @@ def to_upper_case(value: str) -> str:
     Args:
         value: str
     Return:
-        str - строка со всеми заглавными буквами.
+        str - строка, с заглавными буквами.
     """
     return value.upper()
 
